@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".first">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Your curent location is"
+        android:id="@+id/latlong"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/addgeo"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/latlong"
+        android:layout_alignParentLeft="true"
+        android:text="Add geofence"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/removeg"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/latlong"
+        android:layout_alignParentRight="true"
+        android:text="Remove geofence"/>
+
+</RelativeLayout>
