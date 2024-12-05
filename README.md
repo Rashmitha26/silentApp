@@ -2,7 +2,8 @@
 
 ## Introduction
 
-**Auto Silent Mode on Location** is the perfect solution for anyone looking to eliminate the hassle of manually toggling their phone's sound settings throughout the day. Picture this: You're in a lecture hall, an important meeting, or an office space, and suddenly your phone rings — embarrassing, right? Or perhaps you’re trying to enjoy a movie, but you're constantly concerned that your phone will disturb others with notifications or calls. With **Auto Silent Mode on Location**, these concerns are a thing of the past!
+**Auto Silent Mode on Location** is the perfect solution for anyone looking to eliminate the hassle of manually toggling their phone's sound settings throughout the day. 
+Imagine you're in a lecture, a meeting, or an office space. In these situations, an incoming call or notification can be disruptive. With **Auto Silent Mode on Location**, these concerns are a thing of the past!
 
 This app automates the process of switching your phone to silent mode whenever you enter specific locations — whether it’s your office, classroom, or any other place where silence is crucial. No more fumbling through your phone to manually silence it every time you step into a meeting or study session. Once you enter a predefined location, the app detects your position and automatically switches your phone to silent mode. When you leave the area, it seamlessly switches back to normal mode.
 In environments like **colleges**, **offices** or **hospitals**, where a quiet atmosphere is essential, this app ensures you won’t be distracted by your phone or disturb others. Whether you’re attending back-to-back meetings or working in a quiet study space, the app guarantees that your phone will stay in the right mode without you having to think about it. With just a few simple setups, it runs seamlessly in the background, saving you time and effort throughout the day.
